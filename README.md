@@ -6,8 +6,11 @@
 
 ##  Kiến trúc Hệ thống
 
-![System Architecture](./asset/architecture.png)
-*Hình 1: Sơ đồ kiến trúc tổng thể của hệ thống đo nhịp thở không tiếp xúc (V2).*
+<p align="center">
+  <img src="./asset/architecture.png" width="100%">
+  <br>
+  <i>Hình 1: Sơ đồ kiến trúc tổng thể của hệ thống đo nhịp thở không tiếp xúc (V2).</i>
+</p>
 
 ---
 
@@ -29,8 +32,11 @@ Chúng tôi đã thực hiện **Pre-training** mô hình Deep Learning (1D-CNN 
 
 ##  Signal Processing Pipeline
 
-![Signal Pipeline](./asset/signal_pipeline.png)
-*Hình 4: Toàn bộ quá trình xử lý tín hiệu từ RAW CSI → BPM cuối cùng.*
+<p align="center">
+  <img src="./asset/signal_pipeline.png" width="100%">
+  <br>
+  <i>Hình 4: Toàn bộ quá trình xử lý tín hiệu từ RAW CSI → BPM cuối cùng.</i>
+</p>
 
 ---
 
