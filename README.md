@@ -14,7 +14,7 @@
 
 ---
 
-##  Kết quả Pre-training (Mới)
+##  Kết quả Pre-training  
 
 Chúng tôi đã thực hiện **Pre-training** mô hình Deep Learning (1D-CNN + LSTM) trên dataset lớn **PhysioNet BIDMC** (4,823 mẫu nhịp thở thực tế) để tạo ra bộ trọng số khởi tạo tối ưu cho tín hiệu WiFi CSI.
 
@@ -28,17 +28,6 @@ Chúng tôi đã thực hiện **Pre-training** mô hình Deep Learning (1D-CNN 
 
 
 
----
-
-##  Signal Processing Pipeline
-
-<p align="center">
-  <img src="./asset/signal_pipeline.png" width="100%">
-  <br>
-  <i>Hình 4: Toàn bộ quá trình xử lý tín hiệu từ RAW CSI → BPM cuối cùng.</i>
-</p>
-
----
 
 ##  Cấu trúc dự án
 
