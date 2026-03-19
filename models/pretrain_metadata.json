@@ -1,0 +1,11 @@
+{
+  "dataset": "PhysioNet BIDMC PPG and Respiration",
+  "n_windows": 4823,
+  "window_sec": 30,
+  "sampling_rate": 100.0,
+  "bpm_min": 4.0,
+  "bpm_max": 40.0,
+  "pretrain_mae_bpm": 0.43,
+  "pretrain_rmse_bpm": 0.7,
+  "within_2bpm_pct": 97.9
+}
