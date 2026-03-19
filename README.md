@@ -35,17 +35,6 @@ Chúng tôi đã thực hiện **Pre-training** mô hình Deep Learning (1D-CNN 
   <i>Hình 3: Phân phối BPM và đặc trưng sóng nhịp thở từ bộ dữ liệu tham chiếu.</i>
 </p>
 
----
-
-##  Signal Processing Pipeline
-
-<p align="center">
-  <img src="./asset/signal_pipeline.png" width="100%">
-  <br>
-  <i>Hình 4: Toàn bộ quá trình xử lý tín hiệu từ RAW CSI → BPM cuối cùng.</i>
-</p>
-
----
 ##  Cấu trúc dự án
 
 ```
