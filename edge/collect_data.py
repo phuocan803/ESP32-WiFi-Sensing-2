@@ -9,8 +9,8 @@ import sys
 SERIAL_PORT = "COM3"  # Thay đổi tùy theo hệ điều hành (ví dụ: /dev/ttyUSB0 trên Linux)
 BAUD_RATE = 921600
 OUTPUT_DIR = "datasets"
-SUBJECT_NAME = "Huy"
-BPM_GROUND_TRUTH = "16" # Số nhịp thở thực tế đếm được (Ground Truth)
+SUBJECT_NAME = "An"
+BPM_GROUND_TRUTH = "16" # Số nhịp thở thực tế đếm được (Ground Truth) // placeholder
 
 # --- Khởi tạo file lưu trữ ---
 timestamp_str = time.strftime("%Y%m%d_%H%M%S")

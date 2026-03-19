@@ -7,7 +7,7 @@ Hai phương pháp được cung cấp:
   1. FFT (Fast Fourier Transform): Đáng tin hơn khi tín hiệu đều đặn và ít nhiễu.
   2. Peak Detection (Miền thời gian): Tốt hơn khi tín hiệu có biên độ rõ ràng.
 
-Khuyến nghị: Sử dụng cả hai và lấy trung bình để tăng độ ổn định.
+Note: Sử dụng cả hai và lấy trung bình để tăng độ ổn định.
 """
 
 import numpy as np

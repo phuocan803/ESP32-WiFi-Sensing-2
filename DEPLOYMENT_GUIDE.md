@@ -124,7 +124,7 @@ python edge/collect_data.py
 python edge/verify_data.py datasets/An_BPM16_*.csv
 ```
 
-✅ Đạt yêu cầu: tần số > 20Hz, CSI hợp lệ > 90%.
+Đạt yêu cầu: tần số > 20Hz, CSI hợp lệ > 90%.
 
 ### Các kịch bản cần thu thập
 
