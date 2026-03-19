@@ -23,12 +23,29 @@ Chúng tôi đã thực hiện **Pre-training** mô hình Deep Learning (1D-CNN 
 - **RMSE**: **0.70 BPM**
 - **Độ tin cậy (±2 BPM)**: **97.9%**
 
-![Pre-train Report](./asset/pretrain_report.png)
-*Hình 2: Báo cáo đánh giá mô hình sau khi Pre-train trên PhysioNet BIDMC.*
+<p align="center">
+  <img src="./asset/pretrain_report.png" width="100%">
+  <br>
+  <i>Hình 2: Báo cáo đánh giá mô hình sau khi Pre-train trên PhysioNet BIDMC.</i>
+</p>
 
+<p align="center">
+  <img src="./asset/physionet_data_overview.png" width="100%">
+  <br>
+  <i>Hình 3: Phân phối BPM và đặc trưng sóng nhịp thở từ bộ dữ liệu tham chiếu.</i>
+</p>
 
+---
 
+##  Signal Processing Pipeline
 
+<p align="center">
+  <img src="./asset/signal_pipeline.png" width="100%">
+  <br>
+  <i>Hình 4: Toàn bộ quá trình xử lý tín hiệu từ RAW CSI → BPM cuối cùng.</i>
+</p>
+
+---
 ##  Cấu trúc dự án
 
 ```
